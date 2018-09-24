@@ -30,4 +30,9 @@
     <Variable
       Name="CE_Variables/Voltage">220 — 240VAC</Variable>
   </Variables>
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Locked_PDFs.fldes"
+      Publish="true" />
+  </Destinations>
 </CatapultTarget>
