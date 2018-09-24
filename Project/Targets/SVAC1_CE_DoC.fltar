@@ -30,4 +30,9 @@
     ModifyPassword="IE5ESsq8X1B5+vqMMjluvw==" />
   <DocumentProperties
     Title="SVAC1 CE Declaration" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Locked_PDFs.fldes"
+      Publish="true" />
+  </Destinations>
 </CatapultTarget>
