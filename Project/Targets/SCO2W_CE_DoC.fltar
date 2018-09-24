@@ -28,4 +28,9 @@
   </Variables>
   <DocumentProperties
     Title="SCO2W CE Declaration" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Locked_PDFs.fldes"
+      Publish="true" />
+  </Destinations>
 </CatapultTarget>

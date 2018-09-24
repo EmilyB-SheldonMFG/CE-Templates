@@ -24,8 +24,13 @@
     <Variable
       Name="CE_Variables/Unit Name">SCO31-2</Variable>
     <Variable
-      Name="CE_Variables/Voltage">110 — 120VAC</Variable>
+      Name="CE_Variables/Voltage">220 — 240VAC</Variable>
   </Variables>
   <DocumentProperties
     Title="SCO31-2 CE Declaration" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Locked_PDFs.fldes"
+      Publish="true" />
+  </Destinations>
 </CatapultTarget>

@@ -27,6 +27,16 @@
       LastBuilt="2018-09-18T13:06:35.2558468-07:00" />
     <Target
       Icon="System.Drawing.Bitmap"
+      Name="BACTRON900_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="BACTRON900-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
       Name="BACTRONEZ_CE_DoC"
       Type="PDF"
       Build="true" />
@@ -194,7 +204,7 @@
       Name="SHO1-2_CE_DoC"
       Type="PDF"
       Build="true"
-      LastBuilt="2018-09-24T09:28:56.4131180-07:00" />
+      LastBuilt="2018-09-24T09:28:56.3461182-07:00" />
     <Target
       Icon="System.Drawing.Bitmap"
       Name="SMI2_CE_DoC"
