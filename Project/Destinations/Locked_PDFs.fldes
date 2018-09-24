@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="Locked PDFs"
+  Host=""
+  User="MyAccountId"
+  Password=""
+  Directory="J:\Outputs\PDFs\Locked\2018\9-24-2018"
+  Port=""
+  ViewUrl=""
+  Type="file"
+  UploadLogFile="false"
+  RemoveStale="false"
+  ChangedOnly="false"></CatapultDestination>

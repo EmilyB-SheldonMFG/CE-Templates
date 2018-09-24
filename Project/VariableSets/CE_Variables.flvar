@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="Voltage"
+    EvaluatedDefinition="100 — 120VAC">100 — 120VAC</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="BACTRON300">BACTRON300</Variable>
+  <Variable
+    Name="Unit Type"
+    Comment=""
+    EvaluatedDefinition="INCUBATOR">INCUBATOR</Variable>
+  <Variable
+    Name="Unit Type"
+    Comment=""
+    EvaluatedDefinition="OVEN">OVEN</Variable>
+  <Variable
+    Name="Unit Type"
+    Comment=""
+    EvaluatedDefinition="VACUUM OVEN">VACUUM OVEN</Variable>
+  <Variable
+    Name="Unit Type"
+    Comment=""
+    EvaluatedDefinition="HYPOXIA CHAMBER">HYPOXIA CHAMBER</Variable>
+  <Variable
+    Name="Unit Type"
+    Comment=""
+    EvaluatedDefinition="ANAEROBIC CHAMBER">ANAEROBIC CHAMBER</Variable>
+  <Variable
+    Name="Unit Type"
+    Comment=""
+    EvaluatedDefinition="SHAKING INCUBATOR">SHAKING INCUBATOR</Variable>
+  <Variable
+    Name="Unit Type"
+    Comment=""
+    EvaluatedDefinition="BATH">BATH</Variable>
+  <Variable
+    Name="Voltage"
+    Comment=""
+    EvaluatedDefinition="110 — 120VAC">110 — 120VAC</Variable>
+  <Variable
+    Name="Voltage"
+    Comment=""
+    EvaluatedDefinition="220 — 240VAC">220 — 240VAC</Variable>
+  <Variable
+    Name="Voltage"
+    Comment=""
+    EvaluatedDefinition="115VAC">115VAC</Variable>
+  <Variable
+    Name="Voltage"
+    Comment=""
+    EvaluatedDefinition="230VAC">230VAC</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="BACTRON300-2">BACTRON300-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="BACTRON600">BACTRON600</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="BACTRON600-2">BACTRON600-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="BACTRON900">BACTRON900</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="BACTRON900-2">BACTRON900-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="BACTRONEZ">BACTRONEZ</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="BACTRONEZ-2">BACTRONEZ-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="BACTROX">BACTROX</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="BACTROX-2">BACTROX-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO2W">SCO2W</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO2W-2">SCO2W-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO5W">SCO5W</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO5W-2">SCO5W-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO6WE">SCO6WE</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO6WE-2">SCO6WE-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO6AD">SCO6AD</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO6AD-2">SCO6AD-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO10A">SCO10A</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO10A-2">SCO10A-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO5A">SCO5A</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO5A-2">SCO5A-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO31">SCO31</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO31-2">SCO31-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO40">SCO40</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO40-2">SCO40-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO58">SCO58</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SCO58-2">SCO58-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMI2">SMI2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMI2-2">SMI2-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMI6">SMI6</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMI6-2">SMI6-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMI7">SMI7</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMI7-2">SMI7-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMI11">SMI11</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMI11-2">SMI11-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMI12">SMI12</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMI12-2">SMI12-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMI31">SMI31</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMI31-2">SMI31-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMI39">SMI39</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMI39-2">SMI39-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI3">SRI3</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI3-2">SRI3-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI20">SRI20</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI20-2">SRI20-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI21D">SRI21D</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI21D-2">SRI21D-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI20PF">SRI20PF</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI20PF-2">SRI20PF-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI6PF">SRI6PF</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI6PF-2">SRI6PF-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI20P">SRI20P</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI20P-2">SRI20P-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI3P">SRI3P</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI3P-2">SRI3P-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI6P">SRI6P</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SRI6P-2">SRI6P-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SSI2">SSI2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SSI2-2">SSI2-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SSI3">SSI3</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SSI3-2">SSI3-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SSI5">SSI5</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SSI5-2">SSI5-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SSI5R">SSI5R</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SSI5R-2">SSI5R-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SSI5R-HS">SSI5R-HS</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SSI5R-HS-2">SSI5R-HS-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SSI10">SSI10</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SSI10-2">SSI10-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SSI10R">SSI10R</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SSI10R-2">SSI10R-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SWBC22">SWBC22</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SWBC22-2">SWBC22-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SWB15">SWB15</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SWB15-2">SWB15-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SWB23">SWB23</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SWB23-2">SWB23-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SWB7">SWB7</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SWB7-2">SWB7-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SWBR17">SWBR17</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SWBR17-2">SWBR17-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SWBR27">SWBR27</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SWBR27-2">SWBR27-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SVAC1E">SVAC1E</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SVAC1E-2">SVAC1E-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SVAC2E">SVAC2E</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SVAC2E-2">SVAC2E-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SVAC1">SVAC1</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SVAC1-2">SVAC1-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SVAC2">SVAC2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SVAC2-2">SVAC2-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SVAC4">SVAC4</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SVAC4-2">SVAC4-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SVAC9-2">SVAC9-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SHO1">SHO1</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SHO1-2">SHO1-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SGO1">SGO1</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SGO1-2">SGO1-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SGO3">SGO3</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SGO3-2">SGO3-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SGO5">SGO5</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SGO5-2">SGO5-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SGO1E">SGO1E</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SGO6E">SGO6E</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMO10HP-2">SMO10HP-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMO14HP-2">SMO14HP-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMO28HP-2">SMO28HP-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMO38HP-2">SMO38HP-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMO5HP-2">SMO5HP-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMO5CR-2">SMO5CR-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMO1">SMO1</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMO1-2">SMO1-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMO3">SMO3</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMO3-2">SMO3-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMO5">SMO5</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMO5-2">SMO5-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMO14-2">SMO14-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMO28-2">SMO28-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="SMO28G-2">SMO28G-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="TVO-2">TVO-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="TVO-2-2">TVO-2-2</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="TVO-5">TVO-5</Variable>
+  <Variable
+    Name="Unit Name"
+    Comment=""
+    EvaluatedDefinition="TVO-5-2">TVO-5-2</Variable>
+</CatapultVariableSet>

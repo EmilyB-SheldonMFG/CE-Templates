@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="New Book 1">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Resources/Topics/CE_DoC_Template.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      ComputeToc="false"
+      ReplaceMergeNode="false" />
+  </TocEntry>
+</CatapultToc>

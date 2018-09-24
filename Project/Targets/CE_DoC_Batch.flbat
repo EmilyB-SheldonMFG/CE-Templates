@@ -1,0 +1,627 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="BACTRON300_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-21T13:44:44.1203854-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="BACTRON300-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="BACTRON600_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="BACTRON600-2_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-18T13:06:35.2558468-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="BACTRONEZ_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="BACTRONEZ-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="BACTROX_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-18T13:06:41.4741944-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="BACTROX-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="CE_Declaration_Master"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO2W_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-18T13:06:41.4572038-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO2W-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO5A_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO5A-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO5W_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO5W-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO6AD_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO6AD-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO6WE_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO6WE-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO10A_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO10A-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO31_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO31-2_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-18T13:06:46.9135075-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO40_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO40-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO58_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SCO58-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SGO1_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SGO1-2_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-18T13:06:46.8835530-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SGO1E_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SGO3_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SGO3-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SGO5_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SGO5-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SGO6E_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SHO1_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-24T08:37:02.0519611-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SHO1-2_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-24T09:28:56.4131180-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMI2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMI2-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMI6_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMI6-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMI7_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMI7-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMI11_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMI11-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMI12_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMI12-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMI31_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMI31-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMI39_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMI39-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMO1_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMO1-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMO3_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-18T13:06:52.5728414-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMO3-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMO5_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMO5-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMO5CR-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMO5HP-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMO10HP-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMO14-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMO14HP-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMO28-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMO28G-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMO28HP-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SMO38HP-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI3_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI3-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI3P_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI3P-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI6P_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI6P-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI6PF_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI6PF-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI20_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI20-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI20P_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI20P-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI20PF_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI20PF-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI21D_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SRI21D-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SSI3_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SSI3-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SSI5_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SSI5-2_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-18T13:06:53.0038645-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SSI5R_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SSI5R-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SSI5R-HS_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SSI5R-HS-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SSI10_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-18T13:06:58.0291850-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SSI10-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SSI10R_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SSI10R-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SVAC1_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-18T13:06:58.3471577-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SVAC1-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SVAC1E_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SVAC1E-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SVAC2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SVAC2-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SVAC2E_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SVAC2E-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SVAC4_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SVAC4-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SVAC9-2_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-18T13:07:03.0624426-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SWB7_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SWB7-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SWB15_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SWB15-2_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-18T13:07:03.2044342-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SWB23_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SWB23-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SWBC22_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-18T13:07:07.8847210-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SWBC22-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SWBR17_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SWBR17-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SWBR27_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SWBR27-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="TVO-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="TVO-2-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="TVO-5_CE_DoC"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-09-24T08:37:28.4641708-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="TVO-5-2_CE_DoC"
+      Type="PDF"
+      Build="true" />
+  </Targets>
+</CatapultBatchTarget>

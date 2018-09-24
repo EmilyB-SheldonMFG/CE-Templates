@@ -1,0 +1,50 @@
+﻿/*<meta />*/
+
+body
+{
+	font-family: 'Proxima Nova';
+	font-size: 12pt;
+	text-align: left;
+	mc-hyphenate: never;
+	margin-left: 2pt;
+}
+
+p.center
+{
+	text-align: left;
+	padding-left: 60pt;
+	margin: 0pt;
+}
+
+p.product_name
+{
+	font-weight: bolder;
+	text-align: center;
+}
+
+p.directive
+{
+	text-align: left;
+	text-decoration: underline;
+	padding-left: 60pt;
+	padding-top: 4pt;
+}
+
+MadCap|pageFooter
+{
+	font-family: 'Proxima Nova';
+	font-weight: bold;
+	color: #ffffff;
+	font-size:14pt;
+	text-align: center;
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	margin: 0pt;
+}
+
+header
+{
+	font-family: 'Proxima Nova';
+	color: #ffffff;
+	font-size: 22pt;
+}

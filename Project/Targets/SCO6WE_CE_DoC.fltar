@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/CE_TOC.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/CE_DoCs.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/CE_DoC_Style.css"
+  ConditionTagExpression="include[&quot;LEDs.With LED&quot;] exclude[&quot;LEDs.Without LED&quot;] ">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <DocumentProperties
+    Title="SCO6WE CE Declaration" />
+  <PDF
+    ShowUsedBookmarks="false"
+    RestrictPermissions="true"
+    RestrictPrinting="false"
+    ModifyPassword="IE5ESsq8X1B5+vqMMjluvw=="
+    PageMode="UseNone" />
+  <Variables>
+    <Variable
+      Name="CE_Variables/Unit Name">SCO6WE</Variable>
+    <Variable
+      Name="CE_Variables/Voltage">110 — 120VAC</Variable>
+  </Variables>
+</CatapultTarget>
