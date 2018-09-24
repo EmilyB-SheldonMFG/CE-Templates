@@ -30,4 +30,9 @@
   </Variables>
   <DocumentProperties
     Title="SGO1-2 CE Declaration" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Locked_PDFs.fldes"
+      Publish="true" />
+  </Destinations>
 </CatapultTarget>

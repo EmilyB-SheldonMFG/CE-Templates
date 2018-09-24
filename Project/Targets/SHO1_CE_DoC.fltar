@@ -32,7 +32,7 @@
     PageMode="UseNone" />
   <Destinations>
     <Destination
-      Link="/Project/Destinations/SharePoint_CE_DoCs.fldes"
+      Link="/Project/Destinations/Locked_PDFs.fldes"
       Publish="true" />
   </Destinations>
   <Glossaries>

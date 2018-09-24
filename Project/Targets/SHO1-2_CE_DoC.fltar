@@ -19,6 +19,8 @@
       Name="CE_Variables/Unit Name">SHO1-2</Variable>
     <Variable
       Name="CE_Variables/Unit Type">OVEN</Variable>
+    <Variable
+      Name="CE_Variables/Voltage">220 — 240VAC</Variable>
   </Variables>
   <DocumentProperties
     Title="SHO1-2 CE Declaration" />
