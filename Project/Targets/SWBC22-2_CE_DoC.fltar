@@ -15,7 +15,7 @@
     GenerateIndexProxy="false"
     GenerateGlossaryProxy="false" />
   <DocumentProperties
-    Title="SWBC22-2" />
+    Title="SWBC22-2 CE Declaration" />
   <PDF
     ShowUsedBookmarks="false"
     PageMode="UseNone"
@@ -30,4 +30,9 @@
     <Variable
       Name="CE_Variables/Voltage">220 — 240VAC</Variable>
   </Variables>
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Locked_PDFs.fldes"
+      Publish="true" />
+  </Destinations>
 </CatapultTarget>
