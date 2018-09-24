@@ -26,4 +26,9 @@
     RestrictPermissions="true"
     RestrictPrinting="false"
     ModifyPassword="IE5ESsq8X1B5+vqMMjluvw==" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Locked_PDFs.fldes"
+      Publish="true" />
+  </Destinations>
 </CatapultTarget>
