@@ -30,4 +30,9 @@
     <Variable
       Name="CE_Variables/Unit Name">SMO28-2</Variable>
   </Variables>
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Locked_PDFs.fldes"
+      Publish="true" />
+  </Destinations>
 </CatapultTarget>
