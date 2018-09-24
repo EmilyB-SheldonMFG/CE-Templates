@@ -33,6 +33,6 @@
     <Variable
       Name="CE_Variables/Unit Type">SHAKING INCUBATOR</Variable>
     <Variable
-      Name="CE_Variables/Voltage">220 — 240VAC</Variable>
+      Name="CE_Variables/Voltage">230VAC</Variable>
   </Variables>
 </CatapultTarget>

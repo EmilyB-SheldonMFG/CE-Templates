@@ -20,7 +20,7 @@
     <Variable
       Name="CE_Variables/Unit Type">BATH</Variable>
     <Variable
-      Name="CE_Variables/Voltage">230VAC</Variable>
+      Name="CE_Variables/Voltage">220 — 240VAC</Variable>
   </Variables>
   <DocumentProperties
     Title="SWBR27-2 CE Declaration" />

@@ -20,7 +20,7 @@
     <Variable
       Name="CE_Variables/Unit Type">OVEN</Variable>
     <Variable
-      Name="CE_Variables/Voltage">110 — 120VAC</Variable>
+      Name="CE_Variables/Voltage">115VAC</Variable>
   </Variables>
   <DocumentProperties
     Title="SGO1E CE Declaration" />

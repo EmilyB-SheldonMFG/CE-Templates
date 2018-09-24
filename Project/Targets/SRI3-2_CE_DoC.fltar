@@ -18,7 +18,7 @@
     <Variable
       Name="CE_Variables/Unit Name">SRI3-2</Variable>
     <Variable
-      Name="CE_Variables/Voltage">220 — 240VAC</Variable>
+      Name="CE_Variables/Voltage">230VAC</Variable>
   </Variables>
   <DocumentProperties
     Title="SRI3-2 CE Declaration" />

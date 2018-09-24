@@ -18,7 +18,7 @@
     <Variable
       Name="CE_Variables/Unit Name">SHO1</Variable>
     <Variable
-      Name="CE_Variables/Voltage">110 — 120VAC</Variable>
+      Name="CE_Variables/Voltage">100 — 120VAC</Variable>
     <Variable
       Name="CE_Variables/Unit Type">OVEN</Variable>
   </Variables>

@@ -17,6 +17,8 @@
   <Variables>
     <Variable
       Name="CE_Variables/Unit Name">SRI3</Variable>
+    <Variable
+      Name="CE_Variables/Voltage">115VAC</Variable>
   </Variables>
   <DocumentProperties
     Title="SRI3 CE Declaration" />
