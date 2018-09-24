@@ -8,7 +8,7 @@
   MasterToc="/Project/TOCs/CE_TOC.fltoc"
   MasterPageLayout="/Content/Resources/PageLayouts/CE_DoCs.flpgl"
   MasterStylesheet="/Content/Resources/Stylesheets/CE_DoC_Style.css"
-  ConditionTagExpression="include[&quot;LEDs.With LED&quot;] exclude[&quot;LEDs.Without LED&quot;] ">
+  ConditionTagExpression="include[&quot;LEDs.Without LED&quot;] exclude[&quot;LEDs.With LED&quot;] ">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="false"
@@ -26,8 +26,13 @@
     <Variable
       Name="CE_Variables/Unit Type">SHAKING INCUBATOR</Variable>
     <Variable
-      Name="CE_Variables/Voltage">110 — 120VAC</Variable>
+      Name="CE_Variables/Voltage">220 — 240VAC</Variable>
   </Variables>
   <DocumentProperties
     Title="SSI5-2 CE Declaration" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Locked_PDFs.fldes"
+      Publish="true" />
+  </Destinations>
 </CatapultTarget>

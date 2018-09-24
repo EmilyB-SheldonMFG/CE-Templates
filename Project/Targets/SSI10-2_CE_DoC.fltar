@@ -8,7 +8,7 @@
   MasterToc="/Project/TOCs/CE_TOC.fltoc"
   MasterPageLayout="/Content/Resources/PageLayouts/CE_DoCs.flpgl"
   MasterStylesheet="/Content/Resources/Stylesheets/CE_DoC_Style.css"
-  ConditionTagExpression="include[&quot;LEDs.With LED&quot;] exclude[&quot;LEDs.Without LED&quot;] ">
+  ConditionTagExpression="include[&quot;LEDs.Without LED&quot;] exclude[&quot;LEDs.With LED&quot;] ">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="false"
@@ -30,4 +30,9 @@
     RestrictPermissions="true"
     RestrictPrinting="false"
     ModifyPassword="IE5ESsq8X1B5+vqMMjluvw==" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Locked_PDFs.fldes"
+      Publish="true" />
+  </Destinations>
 </CatapultTarget>
